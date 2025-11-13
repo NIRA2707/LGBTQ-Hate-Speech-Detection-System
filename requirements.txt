@@ -1,0 +1,13 @@
+streamlit
+scikit-learn
+joblib
+nltk
+spacy
+emoji
+ntscraper
+pandas
+google-api-python-client
+detect
+langdetect
+torch 
+transformers
